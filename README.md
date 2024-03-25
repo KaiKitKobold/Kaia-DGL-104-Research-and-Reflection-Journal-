@@ -9,13 +9,13 @@ Research &amp; Reflection done in my DGL-104 Class: App Development Foundations
   + [STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST](#week-8-star)
   + [Conclusion](#week-8-conclusion)
   + [Footnotes & Refrences](#week-8-footnotes)
-+ [Week 9: ](#week-9)
++ [Week 9:](#week-9)
 + [Week 10:](#week-10)
 + [Week 11:](#week-11)
 + [Week 12:](#week-12)
 + [Week 13:](#week-13)
 
-<a id="week-8">
+<a id="week-8"></a>
 ## Week 8: Feb 27, 2024. (Written February 27'th, 2024.) 
 
 Today, I learned a wide variety of content, mainly abstract, and tools used for system architecture designs, such as user stories and how they eventually correlate to user journeys, functional user requirements, and their ties to User stories, among many others such as new languages and new language responses, so let's discuss them in more detail.
