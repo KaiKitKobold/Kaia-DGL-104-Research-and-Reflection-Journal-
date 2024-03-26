@@ -411,7 +411,7 @@ For this example, let's look at the GitHub repository:
   No, there have been no contributions to the repository in the past month. The last batches of comments were made in April 2023, and no attention was paid to the  
   repository afterward.  
 
-**Now, let's see if it acurratley contains other cretirea:**
+**Now, let's see if it acurratley contains other critera:**
 
 + [+] When was the latest commit?
   November 2023, if you do not include the DenaBot Security Part 1
