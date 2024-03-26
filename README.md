@@ -4,7 +4,7 @@ Research &amp; Reflection done for my DGL-104 Class: App Development Foundations
 
 ## Table of Contents: 
 + [Week 8: Feb 27, 2024](#week-8)
-  + [Read The RESEARCH & REFLECTION ASSIGNMENT RUBRIC](#week-8-read)
+  + [READ The RESEARCH & REFLECTION ASSIGNMENT RUBRIC](#week-8-read)
   + [REFLECTION ON SLACK NEW LANGUAGE RESPONSES](#week-8-reflect)
   + [STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST](#week-8-star)
   + [Conclusion](#week-8-conclusion)
