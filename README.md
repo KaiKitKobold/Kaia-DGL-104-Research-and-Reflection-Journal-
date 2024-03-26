@@ -1,6 +1,6 @@
  - rrjKaiKitKobold
 # Kaia-DGL-104-Research-and-Reflection-Journal-
-Research &amp; Reflection done in my DGL-104 Class: App Development Foundations 
+Research &amp; Reflection done for my DGL-104 Class: App Development Foundations 
 
 ## Table of Contents: 
 + [Week 8: Feb 27, 2024](#week-8)
