@@ -9,11 +9,28 @@ Research &amp; Reflection done in my DGL-104 Class: App Development Foundations
   + [STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST](#week-8-star)
   + [Conclusion](#week-8-conclusion)
   + [Footnotes & Refrences](#week-8-footnotes)
-+ [Week 9:](#week-9)
-+ [Week 10:](#week-10)
-+ [Week 11:](#week-11)
-+ [Week 12:](#week-12)
++ [Week 9: 3/4/2024](#week-9)
+  + [READ "HOW TO CONTRIBUTE TO OPEN SOURCE"](#week-9-read)
+  + [EXPLORE COMMUNITY CONNECTIONS](#week-9-explore)
+  + [FIND POTENTIAL PROJECTS TO CONTRIBUTE TO](#week-9-find)
+  + [IDENTIFY ISSUES TO SUPPORT REFLECTION](#week-9-identify)
+  + [FOLLOW-UP QUESTIONS REFLECTION ](#week-9-reflection)
+  + [FootNotes & Refrences](#week-9-footnotes)
++ [Week 10: 3/12/2024:](#week-10)
+  + [ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES Reflection](#week-10-assess)
+  + [CONTRIBUTE TO EXTERNAL COMMUNITY](#week-10-contribute)
+  + [CONTRIBUTE TO PATTERN LIBRARY](#week-10-pattern)
+  + [FOLLOW-UP QUESTIONS REFLECTION ](#week-10-follow-up)
+  + [FootNotes & Refrences](#week-10-footnotes)
++ [Week 11: 3/18/2024:](#week-11)
+  + [READ THROUGH PATTERN LIBRARY ISSUES](#week-11-read)
+  + [FOLLOW-UP QUESTIONS REFLECTION](#week-11-follow-up)
+  + [FootNotes & Refrences](#week-11-footnotes)
++ [Week 12: 3/24/2024:](#week-12)
+  + []()
+  + []()
 + [Week 13:](#week-13)
+  + []()
 
 <a id="week-8"></a>
 ## Week 8: Feb 27, 2024. (Written February 27'th, 2024.) 
@@ -277,24 +294,24 @@ it's a starting point before fully submerging myself in my chosen resources.
 - [1: JetBrains.com](https://www.jetbrains.com/)
 - [2: What is Kotlin](https://kotlinlang.org/docs/faq.html#what-is-kotlin)
 - 3: Undiscovered Genius: 
- - [Repository Link:](https://github.com/undiscovered-genius/JAVA)
- - [HTTP Link:](https://github.com/undiscovered-genius/JAVA.git)
+  - [Repository Link:](https://github.com/undiscovered-genius/JAVA)
+  - [HTTP Link:](https://github.com/undiscovered-genius/JAVA.git)
 - 4: PaperMC: 
- - [Repository Link:](https://github.com/PaperMC/Paper)
- - [HTTP Link:](https://github.com/PaperMC/Paper.git)
+  - [Repository Link:](https://github.com/PaperMC/Paper)
+  - [HTTP Link:](https://github.com/PaperMC/Paper.git)
 - 5: UNCIV: 
- - [Repository Link:](https://github.com/yairm210/Unciv)
- - [Https link:](https://github.com/yairm210/Unciv.git)
+  - [Repository Link:](https://github.com/yairm210/Unciv)
+  - [Https link:](https://github.com/yairm210/Unciv.git)
 - 6: LibreTube: 
- - [Youtube's Private Policy:](https://www.youtube.com/static?gl=CA&template=terms)
- - [Repository Link:](https://github.com/libre-tube/LibreTube)
- - [Https Link:](https://github.com/libre-tube/LibreTube.git)
+  - [Youtube's Private Policy:](https://www.youtube.com/static?gl=CA&template=terms)
+  - [Repository Link:](https://github.com/libre-tube/LibreTube)
+  - [Https Link:](https://github.com/libre-tube/LibreTube.git)
 - 7: FreeForm: 
- - [Repository Link:](https://github.com/sunshine0523/Mi-Freeform)
- - [Https Link:](https://github.com/sunshine0523/Mi-Freeform)
+  - [Repository Link:](https://github.com/sunshine0523/Mi-Freeform)
+  - [Https Link:](https://github.com/sunshine0523/Mi-Freeform)
 - 8: Kotlin Pokedex: 
- - [Repository Link:](https://github.com/mrcsxsiq/Kotlin-Pokedex)
- - [Https: Link:](https://github.com/mrcsxsiq/Kotlin-Pokedex.git)
+  - [Repository Link:](https://github.com/mrcsxsiq/Kotlin-Pokedex)
+  - [Https: Link:](https://github.com/mrcsxsiq/Kotlin-Pokedex.git)
 - [9: Kotlin Docs:](https://kotlinlang.org/docs/basic-syntax.html#variables)
 - [10: Java Tutoiral Docs:](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 - [11: What is Kotlin:](https://www.infoworld.com/article/3224868/what-is-kotlin-the-java-alternative-explained.html)
@@ -302,7 +319,7 @@ it's a starting point before fully submerging myself in my chosen resources.
 
 <a id="week-9"></a>
 
-## Week 9: 3/4/2024:
+## Week 9: 3/4/2024
 
 <a id="week-9-read"></a>
 
@@ -310,10 +327,10 @@ it's a starting point before fully submerging myself in my chosen resources.
 
 I had always wished to get into development and contribute to open-source projects, even when I first began. Still, I needed to figure out where to start, and when I tried to dip into development, I got overwhelmed. I needed to figure out how else to help, so I didn't decide to prioritize it. 
 However, after reading the How to Contribute to Open Source article, among many others, I understand how to look for open-source projects to work on and identify aspects I wish to develop and learn from.
-While I initially only thought that you could contribute to open source through code, I discovered through the articles, my class, and the repository that *"A common misconception about contributing to open source is that you need to contribute code. In fact, the other parts of a project are often neglected or overlooked."*  [1:]() 
+While I initially only thought that you could contribute to open source through code, I discovered through the articles, my class, and the repository that *"A common misconception about contributing to open source is that you need to contribute code. In fact, the other parts of a project are often neglected or overlooked."*  [1:](#week-9-footnotes-how) 
 I can contribute to a project in a wide variety of ways. It can start as simple as finding issues in the code or testing the project on an Application scale, Or as complex as being a project maintainer, adding features, fixing bugs, or other ways that I can help with the project.
 
-Here are the following ways that I could help with an open-source project:  *"Your contributions do not have to be exclusive to code. You can help a project by making comments on existing code and APIs to add context and writing documentation for the project."* [3:]() Other project documentation can include install instructions, documentation hosted on another website, or Github pages for common problems or questions within the repository. 
+Here are the following ways that I could help with an open-source project:  *"Your contributions do not have to be exclusive to code. You can help a project by making comments on existing code and APIs to add context and writing documentation for the project."* [2:](#week-9-footnotes-how) Other project documentation can include install instructions, documentation hosted on another website, or Github pages for common problems or questions within the repository. 
 There are also bug reports, quality insurance, and many other sub-categories to help with a project; the main ones that I want to focus on are debugging and debugging an easy or current issue. 
 Regarding ways that I can help with projects and/or repositories, if it needs to be more apparent from the current scope of my Research and Reflection journal, I love to write and describe complex problems in simple detail. Therefore, documentation is a crucial aspect that I could focus on, more specifically, more complex or detailed documentation such as install instructions, FAQs, issue tagging, discussion, and categorizing. 
 
@@ -341,17 +358,17 @@ However, there is still an air of sudo professionalism in each community, with b
 
 ### FIND POTENTIAL PROJECTS TO CONTRIBUTE TO
 
-In class today, I learned the importance of open-source and the many diffrent aspects in which you can contribute towards development inside Github repositories. After reviewing the checklist in the What Means to Contribute article [1:](), I have decided that the Unciv Project may not be suitable for me, mainly due to needing issues component, making it much harder to find a code base. https://github.com/KaiKitKobold/Unciv-KatKitKoboldFork
+In class today, I learned the importance of open-source and the many diffrent aspects in which you can contribute towards development inside Github repositories. After reviewing the checklist in the What Means to Contribute article [1:](#week-9-footnotes-projects), I have decided that the Unciv Project may not be suitable for me, mainly due to needing issues component, making it much harder to find a code base. https://github.com/KaiKitKobold/Unciv-KatKitKoboldFork
 I also looked at other projects, but the issues were either from last year or outdated and needed more development traction. 
 After looking through most of the repositories, The following seemed to fit my criteria: 
-+ Amphtml *"The AMP web component framework."*  [2:]() 
++ Amphtml *"The AMP web component framework."*  [2:](#week-9-footnotes-projects) 
  However, It’s unlikely to be prioritized because the language component is much harder to finalize and identify. 
-+ LibreTube *"An alternative front-end for YouTube, for Android."*  [3:]()
++ LibreTube *"An alternative front-end for YouTube, for Android."*  [3:](#week-9-footnotes-projects)
  This is likely the work that I end up prioritizing over the others. 
-+ CloudStream *"Android app for streaming and downloading media."*  [4:]() 
++ CloudStream *"Android app for streaming and downloading media."*  [4:](#week-9-footnotes-projects) 
 
 
-While I did look at other repositories, either those relating to game development or game engine creation, they all checked off the boxes in the How to contribute to open source article [1:]()
+While I did look at other repositories, either those relating to game development or game engine creation, they all checked off the boxes in the How to contribute to open source article [1:](#week-9-footnotes-projects)
 The Article being what we'll base our criteria of an good repository to commit too. 
 
 + []Meets the definition of open-source
@@ -382,7 +399,7 @@ To truly showcase a project that should be actively considered, let's focus on a
 
 For this example, let's look at the GitHub repository: 
 
-#### [5: Kotlin Pokedex]()
+**[5: Kotlin Pokedex](#week-9-footnotes-projects)**
 
 **This is an App for mobile devices that uses many diffrent features of Android Studio to make an immersive experience to view the entries and statistics for the video game series Pokemon.**
 
@@ -424,13 +441,15 @@ The last closed pull request was on November 27, 2023. However, there is an acti
 + [-] Are people friendly in the issues, discussion forum, and chat (IRC or Slack)?
 + [-] Do pull requests get reviewed?
 + [+] Do maintainers thank people for their contributions?
-  Yes, they do; as a tight-night small passion project, there is a vital source of friendly affirmation around, most of which could be displayed here [6:]()
+  Yes, they do; as a tight-night small passion project, there is a vital source of friendly affirmation around, most of which could be displayed here [6:](#week-9-footnotes-projects)
   However, as we described earlier, the repository could be more active and is maintained mainly by the creator of the repository and the app. Also, the discussion    
   provided is from three years ago, so this project's heydays are over. 
 
-As seen from above, while Kotlin pokedex [5:]() fulfills some categories, other categories still need to be improved, such as the repository attention and the overall community aspect needing to be better. 
+As seen from above, while Kotlin pokedex [5:](#week-9-footnotes-projects) fulfills some categories, other categories still need to be improved, such as the repository attention and the overall community aspect needing to be better. 
 
-#### Let's examine the other projects to see if they fulfill these requirements. To start, let's examine Amphtml [2:]() 
+#### Let's examine the other projects to see if they fulfill these requirements. To start, let's examine:
+**Amphtml [2:](#week-9-footnotes-projects)**
+
 It does have a license and a relatively descriptive and working read.me file and license for the project. 
 
  + [+] When was the latest commit?
@@ -445,7 +464,7 @@ It does have a license and a relatively descriptive and working read.me file and
  + [+] Do maintainers respond quickly to issues when they are opened?
    Maintainers usually respond within a week if the issue is a high priority or essential for the project's health and implications.
  + [+] Is there active discussion on the issues?
-   Yes, there is active discussion among the main Maintainers of the project and active debate among technical aspects, including code snippets if the developers fix the      issue, an example of which would be the issue initially committed on February 30, 2024, which can be found here [7:]()
+   Yes, there is active discussion among the main Maintainers of the project and active debate among technical aspects, including code snippets if the developers fix the      issue, an example of which would be the issue initially committed on February 30, 2024, which can be found here [7:](#week-9-footnotes-projects)
  + [+] Are the issues recent?
   Yes, there have been many issues even in the past week, all of which are descriptive, fully tagged to describe, and have descriptive titles and descriptions. 
  + [+] Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
@@ -455,7 +474,7 @@ It does have a license and a relatively descriptive and working read.me file and
   There are around 89 pull requests for the project. 
  + [+] Do maintainers respond quickly to pull requests when opened?
   Yes, the primary maintainers, such as erwinmombay and powerivq, discuss pull requests among each other and the committer relating to the project's overall goals. An   
-  example of which is an open request done on March 4, 2024, is the following commit by zombifier [8:]() 
+  example of which is an open request done on March 4, 2024, is the following commit by zombifier [8:](#week-9-footnotes-projects) 
  + [+] Is there an active discussion on the pull requests?
   Almost every pull request, barring a couple of recent ones from the past couple of weeks, has a discussion with the maintainers. 
  + [+] Are the pull requests recent?
@@ -464,7 +483,7 @@ It does have a license and a relatively descriptive and working read.me file and
   There are around three pull requests from March 5, 2024, and many others from the past couple of weeks, all of which have been approved by the project's Moderators and  
   Maintainers. 
 **A friendly and welcoming project signals that it will be receptive to new contributors:**
-Quote from the first section of the Read.me file: *"AMP is a web component framework for easily creating user-first websites, stories, ads, emails, and more. AMP is an open source project, and we'd love your help making it better"* [2:]() 
+Quote from the first section of the Read.me file: *"AMP is a web component framework for easily creating user-first websites, stories, ads, emails, and more. AMP is an open source project, and we'd love your help making it better"* [2:](#week-9-footnotes-projects) 
  + [+] Do the maintainers respond helpfully to questions in issues?
    Maintainers respond helpfully to public questions about the issues and technical details around the project. 
  + [+] Are people friendly in the issues, discussion forum, and chat (IRC or Slack)?
@@ -484,7 +503,7 @@ Overall, amphtml is an excellent source that ticks all the boxes as a repository
   It does not personally excite me. While creating frameworks does sound fun, it is relatively abstract and high-level for my current skill set. That and its   
   overall purpose are something other than what I would mainly use or wish to focus on in my future career as a developer. 
 
-Thankfully, we have two more repositories to look through and inevitably choose from, so let's divert our attention, with our checklist in hand, to Libre-tube [2:](), a repository that uses Kotlin, personally interests me, and aligns with my goals as a developer.
+Thankfully, we have two more repositories to look through and inevitably choose from, so let's divert our attention, with our checklist in hand, to Libre-tube [2:](#week-9-footnotes-projects), a repository that uses Kotlin, personally interests me, and aligns with my goals as a developer.
 
 Now, let's see if LibreTube repository checks off all the checkboxes:
 
@@ -518,7 +537,7 @@ Now, let's see if LibreTube repository checks off all the checkboxes:
    There are only two open pull requests, one from two weeks ago and the other from January. Both of these have discussions and comments. 
  + [+] Do maintainers respond quickly to pull requests when opened?
    Yes, and they seem to have constructive and descriptive feedback relating to the pull requests, an example of which can be the feedback from the pull request around two 
-   weeks ago (As of March 5, 2024, which you can see here [8:]()
+   weeks ago (As of March 5, 2024, which you can see here [8:](#week-9-footnotes-projects)
  + [+] Is there an active discussion on the pull requests?
  + [+] Are the pull requests recent?
  + [+] How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)
@@ -535,9 +554,9 @@ The project only has a definitive place for active discussion besides the code o
    Pull requests are reviewed frequently, daily, and weekly; the number of open pull requests should be enough to determine the frequency fully. 
 + [+] Do maintainers thank people for their contributions?
   Yes, however, there seems to be a communication problem sometimes regarding the implementations of features of the maintainers/developers, including jokes in a 
-  discussion pull request, the details of which are found here [9:]()
+  discussion pull request, the details of which are found here [9:](#week-9-footnotes-projects)
 
-Overall, while there is some roughness to some of the project, LibreTube [2:]() also works entirely as a suitable repository to commit and follow through on primarily 
+Overall, while there is some roughness to some of the project, LibreTube [2:](#week-9-footnotes-projects) also works entirely as a suitable repository to commit and follow through on primarily 
 when referring to a hot topic in the modern application development space such as video/media players and has all the makings of an easy to jump into an open-source 
 project. 
 
@@ -550,7 +569,7 @@ However, there are some things about the project that, while being a project I c
  complicated for me to implement the project.
 
 While the previous repository was on the right track, let's see if:
-#### CloudStream [3:]()
+**CloudStream [3:](#week-9-footnotes-projects)**
  Can fulfill my personal and the checklist requirements for a repository that is perfect for me.
 
 Of course, like the others, the repository has an open-source license. 
@@ -564,9 +583,9 @@ Of course, like the others, the repository has an open-source license.
  + [+] How many open issues are there?
    There are 167 issues in total.
  + [+] Do maintainers respond quickly to issues when they are opened?
-   Yes, as an example, An issue that was opened yesterday hours ago on March 5, 2024, As of (5:58PM) Already has a response by a maintainer [10:]()
+   Yes, as an example, An issue that was opened yesterday hours ago on March 5, 2024, As of (5:58PM) Already has a response by a maintainer [10:](#week-9-footnotes-projects)
  + [+] Is there active discussion on the issues?
-   Yes, the most recent of which is dated 2 weeks ago, with an active discussion by a maintainer and the issuer. [11:]() 
+   Yes, the most recent of which is dated 2 weeks ago, with an active discussion by a maintainer and the issuer. [11:](#week-9-footnotes-projects) 
  + [+] Are the issues recent?
    Yes, the issues are updated fairly regularly, most of which are committed on the weekend rather than daily, such as with LibreTube. 
  + [+] Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)
@@ -575,7 +594,7 @@ Of course, like the others, the repository has an open-source license.
  + [+] How many open pull requests are there?
    There are around 16 open pull requests.
  + [+] Do maintainers respond quickly to pull requests when opened?
-   Yes, the most recent of which is from the past week ago as of (March 5, 2024) [12]()
+   Yes, the most recent of which is from the past week ago as of (March 5, 2024) [12](#week-9-footnotes-projects)
  + [+] Is there an active discussion on the pull requests?
  + [+] Are the pull requests recent?
    Most pull requests are as recent from this week or last week as of (March 5, 2024) 
@@ -589,7 +608,7 @@ Of course, like the others, the repository has an open-source license.
  + [+] Do pull requests get reviewed?
  + [+] Do maintainers thank people for their contributions?
 
-Overall, Cloudstream [3]() ticks off many of the boxes, just like LibreTube
+Overall, Cloudstream [3](#week-9-footnotes-projects) ticks off many of the boxes, just like LibreTube
 
 However, despite being rough around the edges and a much smaller project, Cloudstream works perfectly for a repository I wish to work on soon. 
 Why? Well, there are numerous diffrent reasons: 
@@ -610,21 +629,21 @@ CloudStream is my chosen repository because it is suitable for joining and easy 
 
 ### IDENTIFY ISSUES TO SUPPORT
 
-#### First Issue: AmpHTML [2:]()
-Repository [1:]()
+**First Issue: AmpHTML [2:](#week-9-footnotes-find)**
+Repository [1:](#week-9-footnotes-find)
 The issue was first Opened on March March 4, 2021, by calebcordry 
 
 The issue mainly relates to Screen Display and the Lack of Responsive Stylization that makes certain elements, such as a <a> link or button, be much smaller on all screen sizes across multiple layers; the issue is mainly CSS-related. 
 The issue has already been fixed through discussion to make the button and the contents dynamic for the screen size. However, it remains open with a text element called Added New Styles to Amp-Story-auto-ads to provide compatibility. UI across all resolutions 
-It was reopened but Failed due to not passing checks and not having enough reviewer discussion amongst each other. [3:]()
+It was reopened but Failed due to not passing checks and not having enough reviewer discussion amongst each other. [3:](#week-9-footnotes-find)
 
 Where I should start when referring to that current issue is mainly looking at Either the CSS Or The JS. If the JS uses Dom from the CSS or if the CSS class by itself is decapitated, if possible, I should use relative units for the element, id class, or pseudo selectors used inside the CSS, making sure that if they depend on specific sizes, either use a media selector or a much more calculated size selector that uses percentages, or EM for short. 
 If the issues are already fixed, I can provide more CSS classes to use as templates for small or larger screen sizes and ensure they are responsive across the Media Selectors provided in the project. 
 
 A thorough code scan would be needed to identify and implement the corresponding issue. 
 
-#### Second Issue: LibreTube [5:]()
-Repository: [4:]()
+**Second Issue: LibreTube [5:](#week-9-footnotes-find)**
+Repository: [4:](#week-9-footnotes-find)
 The issue is a Display issue (The steps of which are reproducible); 
 When clicking a comment with a time stamp in the video, The comment expands to fit the screen size. More specifically, tapping on the comment expands rather than just pointing the video duration to the specified time stamp. 
 
@@ -632,8 +651,8 @@ There are currently no comments on the issue. However, it does have proper taggi
 
 While the technical details are not something I can certainly guess at this moment, I'd focus on either the pointer or function that causes the comment to expand and see if the time Stamp is the issue in how it references the source. If touching an inheritable comment expands the UI, I'd like to make a separate implementation, add a property to the text, or dereference the text from the UI's variable.
 
-#### Third Issue: CloudStream [7:]()
-Repository: [6:]()
+**Third Issue: CloudStream [7:](#week-9-footnotes-find)**
+Repository: [6:](#week-9-footnotes-find)
 
 This is more of a feature request than a bug-fix implementation. The issue is asking for a better aspect ratio and video resizing located in the internal video player; they argue that since the video sources come from a wide variety of formats, some sources do not display well with the current options the requester, therefore, wishes for the following implementations: 
 Best Fit
@@ -685,7 +704,7 @@ Therefore, I may switch gears to a project such as ampHTML and use Javascript, a
 
 <a id="week-9-footnotes-projects"></a>
 
-#### Find potential projects to contribute to Footnotes/References:
+#### Find potential projects to contribute to: Footnotes/References:
 
  - [1: Open Source Guide: What it means to contribute](https://opensource.guide/how-to-contribute/#what-it-means-to-contruibute)
  - [2: AmpHTML:](https://github.com/ampproject/amphtml)
@@ -717,7 +736,7 @@ Therefore, I may switch gears to a project such as ampHTML and use Javascript, a
 
 ## Week 10: 3/12/2024
 
-<a id="week-10-assess">
+<a id="week-10-assess"></a>
 
 ### ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
 
@@ -728,7 +747,7 @@ Upon researching each aspect of the External Community Contribution Guidelines, 
 
 My chosen community, CloudStream, does not have an official contribution document or, more specifically, a Contribution.MD document, they also didn't host any information in their read.me or other various files to showcase, So I joined their discord server Lagrapps. to ask them directly, paired with my issue identification, helped give them a better idea of what I was asking them. 
 
-The following screenshots are of my discussion between the main mainters on the server and myself. [1:]()
+The following screenshots are of my discussion between the main mainters on the server and myself. [1:](#week-10-footnotes-asess)
 
 TODO: ADD IMAGES.
 
@@ -737,11 +756,11 @@ Overall, They were very friendly, and answered my questions fully, gave confirma
 (However, finding out what I should do next, is an Research & Reflection heading in of itself, but I’m getting off track.) 
 
 #### LibreTube: 
-LibreTube is an fairly awkward example, mainly due to the fact that they do not have an community aspect; that being an Discord, Slack, or other social aspect besides discussion relating to pull-requests and issues, As Well, LibreTrube does not have an Contributing document, the only document that they do provide is an Code-of-Conduct.md document [2:], That while critical towards the community, only provides vague instances of what is deemed to get kicked from their community or offenses, which does not illustrate if they accept contributions and, if any or there syntaxial rules or development that needs to be prioritized. 
+LibreTube is an fairly awkward example, mainly due to the fact that they do not have an community aspect; that being an Discord, Slack, or other social aspect besides discussion relating to pull-requests and issues, As Well, LibreTrube does not have an Contributing document, the only document that they do provide is an Code-of-Conduct.md document [2:](#week-10-footnotes-asess) That while critical towards the community, only provides vague instances of what is deemed to get kicked from their community or offenses, which does not illustrate if they accept contributions and, if any or there syntaxial rules or development that needs to be prioritized. 
 
 #### AmpHTML: 
 
-Unlike the others, AmpHTML has a Contributing.Md document [3:](), so let’s examine it and scrutinize it more explicitly.
+Unlike the others, AmpHTML has a Contributing.Md document [3:](#week-10-footnotes-asess), so let’s examine it and scrutinize it more explicitly.
 
 AmpHTML has extensive documentation based on contributing rules and steps, bug reports, and feature requests, including detailed documentation for each. 
 
@@ -750,7 +769,7 @@ AmpHTML has extensive documentation based on contributing rules and steps, bug r
 
 While this weekly exercise was done a week ahead of schedule, The contributing steps I’ve taken for my external community is a Reflection and a Case Study in of Itself about how you don’t have to contribute code to make a difference and that most of this week’s content was also accurately reflected in week 11’s Assignment, Connect with your external community, So let’s delve into the specifics, shall we?
 
-I had initially started with identifying an issue, in this case helping with more view settings for the video player, the light discussion of which is showcased on our previous example [1:]()
+I had initially started with identifying an issue, in this case helping with more view settings for the video player, the light discussion of which is showcased on our previous example [1:](#week-10-assess)
 
 They helped provide documentation for me to help develop my contribution in this case being developing extensions, However as I followed along with the tutorial, I ended up realizing that the scope of the learning required in order to develop the extensions, ended up being too large. 
 
@@ -809,26 +828,27 @@ That being, Implement Test, Attempt to Fix error by looking at documentation, Fi
 + [2: LibreTube Code of Conduct:] https://github.com/libre-tube/LibreTube/blob/master/CODE_OF_CONDUCT.md
 + [3: AMPHTML Contributing:] https://github.com/ampproject/amphtml/blob/main/docs/contributing.md#contributing-code
 
-<a id="week-11">
+<a id="week-11"></a>
 ## Week 11: 3/18/2024: 
 
 
 <a id="week-11-read"></a>
 ### READ THROUGH PATTERN LIBRARY ISSUES: 
 
-Looking through the Pattern Library issues, I’m pleasantly surprised by the amount of new issues that showcase languages, different types of programming patterns, and wide variety of ideas on display, as the unofficial pattern library folder structure/ table of contents on the Read.ME, I think It’ll be interesting my update-time and work flow when referring to that aspect of development, regarding issues I’ve chosen to research or help I decided to review an Read.Me Essay implementation of Fuctional programing vs Object-orianted programing [2](), for my reviewed pull request, Overall the pull request had good formatting, easy-to-identify Headings, and Images and was a good showcase of the issue, I gave it my thumbs up. 
+Looking through the Pattern Library issues, I’m pleasantly surprised by the amount of new issues that showcase languages, different types of programming patterns, and wide variety of ideas on display, as the unofficial pattern library folder structure/ table of contents on the Read.ME, I think It’ll be interesting my update-time and work flow when referring to that aspect of development, regarding issues I’ve chosen to research or help I decided to review an Read.Me Essay implementation of Fuctional programing vs Object-orianted programing [2:](#week-11-footnotes-read), for my reviewed pull request, Overall the pull request had good formatting, easy-to-identify Headings, and Images and was a good showcase of the issue, I gave it my thumbs up. 
 
-To propose a new file name scheme for all pattern file issues [1]() I decided to throw my own hat in the ring and help define a file name scheme, I saw across most of the pattern libraries, a simple file description that details the pattern such as Singelton.js, Since our project has implementations across different languages I eventually decided that a file name with underscore for readability such as singleton_JavaScript.js or Singleton_JavaScript.js would work best for the project.  
-<a id="week-11-follow-up">
+To propose a new file name scheme for all pattern file issues [1:](#week-11-footnotes-read) I decided to throw my own hat in the ring and help define a file name scheme, I saw across most of the pattern libraries, a simple file description that details the pattern such as Singelton.js, Since our project has implementations across different languages I eventually decided that a file name with underscore for readability such as singleton_JavaScript.js or Singleton_JavaScript.js would work best for the project.  
+
+<a id="week-11-follow-up"></a>
 ###  FOLLOW-UP QUESTIONS AND REFLECTIONS
 
 #### Determine if your chosen programming language is OOP capable. To what extent does it support OOP? Fully, or partially? Does it support any other paradigms? Wikipedia has a good list of multi-paradigmatic programming languages.
 
 
-Dart [1]() is indeed has full object-oriented support with support for classes, objects, constructors including factory constructors, Attributes/Field and much more specific frame-works which I won’t go into more detail in here  Since Dart is widely used as an academic and *“formal”* language, it provides support for other paradigms such as functional, imperative, and even reflective languages. 
+Dart [1:](#week-11-footnotes-follow) is indeed has full object-oriented support with support for classes, objects, constructors including factory constructors, Attributes/Field and much more specific frame-works which I won’t go into more detail in here  Since Dart is widely used as an academic and *“formal”* language, it provides support for other paradigms such as functional, imperative, and even reflective languages. 
 
 
-Dart also has an wide variety of ways that it can compiled such as [2]:
+Dart also has an wide variety of ways that it can compiled such as [2:](#week-11-footnotes-follow)
 *“machine code, JavaScript, or WebAssembly. It supports interfaces, mixins, abstract classes, reified generics and type inference.”* 
 
 <a id="week-11-footnotes"></a>
